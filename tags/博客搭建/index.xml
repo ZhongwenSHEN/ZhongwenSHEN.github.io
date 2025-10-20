@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>博客搭建 on 沈仲文的技术博客</title><link>https://ZhongwenSHEN.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link><description>Recent content in 博客搭建 on 沈仲文的技术博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 15 Jan 2024 20:00:00 +0800</lastBuildDate><atom:link href="https://ZhongwenSHEN.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇博客</title><link>https://ZhongwenSHEN.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link><pubDate>Mon, 15 Jan 2024 20:00:00 +0800</pubDate><guid>https://ZhongwenSHEN.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid><description>&lt;h2 id="为什么开始写博客"&gt;为什么开始写博客
+&lt;/h2&gt;&lt;p&gt;作为仿真工程师，我经常&amp;hellip;&lt;/p&gt;
+&lt;h2 id="今日收获"&gt;今日收获
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;学会了用Hugo搭建博客&lt;/li&gt;
+&lt;li&gt;了解了GitHub Pages部署&lt;/li&gt;
+&lt;li&gt;发现了Markdown的便捷性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="技术思考"&gt;技术思考
+&lt;/h2&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# 这里可以放你的代码片段&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;def&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;simulation_example&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; print(&lt;span style="color:#e6db74"&gt;&amp;#34;Hello, Technical Blog!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item></channel></rss>
