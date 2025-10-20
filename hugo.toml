@@ -1,0 +1,21 @@
+baseURL = "https://ZhongwenSHEN.github.io/"
+languageCode = "zh-cn"
+title = "沈仲文的技术博客"
+theme = "stack"
+
+[params]
+  subtitle = "仿真工程师 | 计算流体力学 | 技术随笔"
+  
+# 发布设置
+[build]
+  publishDir = "public"
+  
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 2
